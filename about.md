@@ -5,7 +5,7 @@ permalink: /about/
 
 I am a sophomore in the department of Computer Science and Engineering at [Indian Institute of Technology, Roorkee][IITR].
 
-I was born and raised in Amritsar, Punjab and did my schooling from [DAV International School, Amritsar][DAVIS]. From childhood I have been interested in many things and tried hands on various activities ranging like harmonium, guitar, skating, badminton and much more. After school, I took the JEE exam and got an All India Rank of 392 and landed up in IIT Roorkee, a decision which I will never regret.
+I was born and raised in Amritsar, Punjab and did my schooling from [DAV International School, Amritsar][DAVIS]. Since childhood I have been interested in many things and tried hands on various activities like harmonium, guitar, skating, badminton and much more. After school, I took the JEE exam and got an All India Rank of 392 and landed up in IIT Roorkee, a decision which I will never regret.
 
 I had started programming in C and slowly I have learnt C++, Java, HTML5, CSS3, JavaScript, PHP and Python.
 
