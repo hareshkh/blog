@@ -2,7 +2,7 @@
 layout: post
 title:  "Ubuntu 16.04 VMWare: Fullscreen Fix"
 description: "Using Ubuntu 16.04 in fullscreen mode on VMWare installed on Windows 10."
-date:   2016-08-17 11:06:33
+date:   2016-08-11 11:06:33
 tags: [vmware, ubuntu16.04, fullscreen]
 comments: true
 share: true

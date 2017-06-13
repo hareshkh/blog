@@ -19,6 +19,6 @@ Contact me on my [E-Mail][mail].
 [DAVIS]: http://www.davintschool.org/
 [MDG]:   https://mobile.sdslabs.co/
 [WoNA]:  http://wona.co.in
-[fb]:  https://www.facebook.com/hareshkhanna01/
+[fb]:    https://www.facebook.com/hareshkhanna01/
 [mail]:  mailto:khanna.haresh@yahoo.co.in
-[acm]: https://www.iitr.ac.in/acm
+[acm]:   https://www.iitr.ac.in/acm
