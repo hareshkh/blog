@@ -86,6 +86,6 @@ defaults:
 gems:
   - jekyll-seo-tag
   - jekyll-paginate
-  - jekyll-admin
+  # - jekyll-admin
 
 exclude:            [vendor]
